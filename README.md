@@ -61,7 +61,7 @@ You can deploy this bot anywhere.
 </a>
 
 
-https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FUsername%2FRepo-Name
+https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fscrooge010%2Fsearch
 
 
 </p>
