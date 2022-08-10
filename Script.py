@@ -11,19 +11,20 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Private Bot. 
-- Source - https://github.com/scrooge010/search
+- Private Bot. Create Your Own One.
+- Our Group - https://t.me/asiandramagroup1
 
 <b>DEVS:</b>
+- Contact Owner 👇
 - <a href=https://t.me/scrooge010>Team ADG</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and ADG will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. ADG Search maria should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
+1. ADG Search should have admin privillage.
+2. Only admins can add filters in a chat.
+3. Alert buttons have a limit of 64 characters.
 
 <b>Commands and Usage:</b>
 • /filter - <code>add a filter in chat</code>
